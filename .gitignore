@@ -1,0 +1,9 @@
+# Артефакты сборки
+ffmpeg/
+*.exe
+build/
+dist/
+__pycache__/
+
+# Прочее
+*.rar
